@@ -1,2 +1,2 @@
 # frontend-engineer
-Starting this repo with one sole purpose - be the one stop for mastering all things front end. 
+Starting this repo with one sole purpose - **Be the one stop shop for mastering all things front end**. 
